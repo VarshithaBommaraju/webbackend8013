@@ -1,0 +1,43 @@
+[
+    {
+      "city": "New York",
+      "female_population": 4230000,
+      "male_population": 4020000,
+      "minors_count": 1700000,
+      "adult_count": 6550000,
+      "density_index": 29300
+    },
+    {
+      "city": "Houston",
+      "female_population": 1180000,
+      "male_population": 1130000,
+      "minors_count": 500000,
+      "adult_count": 1810000,
+      "density_index": 3600
+    },
+    {
+      "city": "Los Angeles",
+      "female_population": 1940000,
+      "male_population": 1880000,
+      "minors_count": 800000,
+      "adult_count": 3020000,
+      "density_index": 8300
+    },
+    {
+      "city": "Chicago",
+      "female_population": 1400000,
+      "male_population": 1260000,
+      "minors_count": 600000,
+      "adult_count": 2060000,
+      "density_index": 12000
+    },
+    {
+      "city": "Phoenix",
+      "female_population": 845000,
+      "male_population": 805000,
+      "minors_count": 350000,
+      "adult_count": 1300000,
+      "density_index": 3100
+    }
+  ]
+  
