@@ -3,7 +3,7 @@ const path = require("path");
 const fs = require("fs");
 const { MongoClient } = require('mongodb');
 
-const URI = 'mongodb+srv://bommarajuvarshitha12:EOnc0ty9XsKVpMLd@cluster0.ygp4t.mongodb.net/';
+const URI = 'mongodb+srv://bommarajuvarshitha12:EOnc0ty9XsKVpMLd@cluster0.ygp4t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
 async function connectToMongoDB() {
   const client = new MongoClient(URI);
   try {
