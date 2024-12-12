@@ -2,6 +2,18 @@ body{
     margin: 0;
     padding: 0;
 }
+header {
+    grid-area: main; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    text-align: center; 
+    background-color: #f5abce; 
+    color: rgb(0, 0, 0); 
+    font-family: Arial, sans-serif; 
+    font-size: 0.5rem; 
+    height: 10%; 
+}
 
 .container {
     background: #fffcdf;
@@ -314,7 +326,7 @@ a img {
     margin-left: 20px;
 }
 
-/* Mobile Layout : from 500px only screen will become resposive as mentioned*/
+/* Mobile Layout : from 500px only screen will become responsive as mentioned*/
 
 @media only screen and (max-width: 600px) {
     .container {
@@ -486,4 +498,3 @@ main {
 }
 
 }
-
